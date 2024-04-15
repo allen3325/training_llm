@@ -10,4 +10,4 @@ This is my playground for training LLM.
 | Model Name      | Fine-Tuning Details                |
 |-----------------|------------------------------------|
 | [Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)         | Fine-tuned with dataset [gbharti/finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca)         |
-| [Breeze-7B-Instruct-v1_0](https://huggingface.co/MediaTek-Research/Breeze-7B-Instruct-v1_0)         | Fine-tuned with dataset [LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT)         |
+| [Breeze-7B-Instruct-v1_0](https://huggingface.co/MediaTek-Research/Breeze-7B-Instruct-v1_0)         | Fine-tuned with dataset [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT)         |
