@@ -98,7 +98,7 @@ max_seq_length = 2048  # Maximum sequence length to use
 
 packing = False  # Pack multiple short examples in the same input sequence to increase efficiency
 
-device_map = "cuda:0"  # Load the entire model to the GPU auto, if want to specific, use `CUDA_VISIBLE_DEVICES=0 python training.py` in terminal
+device_map = "auto"  # Load the entire model to the GPU auto, if want to specific, use `CUDA_VISIBLE_DEVICES=0 python training.py` in terminal
 
 # Check GPU compatibility with bfloat16
 compute_dtype = getattr(torch, bnb_4bit_compute_dtype)
