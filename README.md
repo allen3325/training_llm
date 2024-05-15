@@ -1,4 +1,4 @@
-# training_llm
+# training_llm_recipe
 
 This is my playground for training LLM.
 
